@@ -3,7 +3,7 @@ module github.com/digitalocean/clusterlint
 go 1.12
 
 require (
-	github.com/docker/distribution v2.7.1+incompatible
+	github.com/docker/distribution v2.8.2+incompatible
 	github.com/fatih/color v1.7.0
 	github.com/mattn/go-colorable v0.1.2 // indirect
 	github.com/opencontainers/go-digest v1.0.0-rc1 // indirect
